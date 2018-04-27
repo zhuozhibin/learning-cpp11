@@ -1,3 +1,4 @@
+---
 title: C++11 auto类型推导
 author: 卓智斌
 tags:
